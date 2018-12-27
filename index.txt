@@ -6,6 +6,7 @@
 <p>This is to show changes from worker2</p>
 <h1>THis is a new line</h1>
 This is a feature branch
+This is a new branch - branch changes
 </body>
 </html>
 
