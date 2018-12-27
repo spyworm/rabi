@@ -5,8 +5,6 @@
 <p>This is to show the change from worker1</p>
 <p>This is to show changes from worker2</p>
 <h1>THis is a new line</h1>
-This is some line
-THis is another lione
 </body>
 </html>
 
