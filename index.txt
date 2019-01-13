@@ -1,7 +1,26 @@
 <html>
 <body>
 <h1>This is a test file </h1>
+<<<<<<< HEAD
 This is a reset example
 This is a branch example
 </body>
 </html>
+=======
+<h1>This is another data file</h1>
+<p>This is to show the change from worker1</p>
+<p>This is to show changes from worker2</p>
+<h1>THis is a new line</h1>
+This is a feature branch
+This is a new branch - branch changes
+This is a change for Tagging
+This is some data for git-cherry-pick
+<h1>THis is a new line</h1>
+This is a feature branch
+This is a new branch - branch changes
+This is a change for Tagging
+This is some data for git-cherry-pick
+</body>
+</html>
+
+>>>>>>> db9ae721103405b3c1d812e89e49871bb6205a4a
