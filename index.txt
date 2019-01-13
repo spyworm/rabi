@@ -2,5 +2,6 @@
 <body>
 <h1>This is a test file </h1>
 This is a reset example
+This is a branch example
 </body>
 </html>
